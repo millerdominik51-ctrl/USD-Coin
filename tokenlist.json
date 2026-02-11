@@ -1,0 +1,19 @@
+{
+  "name": "MMT Token List",
+  "timestamp": "2026-02-11T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC3180d6bed1d5dfbe3217331cb9212d6e32f6d2",
+      "name": "MyMainToken",
+      "symbol": "MMT",
+      "decimals": 18,
+      "logoURI": "https://millerdominik51-ctrl.github.io/USD-Coin/logo.png"
+    }
+  ]
+}
